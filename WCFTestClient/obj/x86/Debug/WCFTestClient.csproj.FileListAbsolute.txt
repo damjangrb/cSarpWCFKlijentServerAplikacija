@@ -1,0 +1,20 @@
+c:\users\vpetrovic\documents\visual studio 2010\Projects\istV8\WCFTestClient\bin\Debug\WCFTestClient.exe
+c:\users\vpetrovic\documents\visual studio 2010\Projects\istV8\WCFTestClient\bin\Debug\WCFTestClient.pdb
+c:\users\vpetrovic\documents\visual studio 2010\Projects\istV8\WCFTestClient\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\vpetrovic\documents\visual studio 2010\Projects\istV8\WCFTestClient\obj\x86\Debug\WCFTestClient.exe
+c:\users\vpetrovic\documents\visual studio 2010\Projects\istV8\WCFTestClient\obj\x86\Debug\WCFTestClient.pdb
+c:\users\vpetrovic\documents\visual studio 2010\Projects\istV8\WCFTestClient\bin\Debug\WCFTestClient.exe.config
+C:\Users\Gospodin D\Desktop\faks\IST\istV8\WCFTestClient\bin\Debug\WCFTestClient.exe.config
+C:\Users\Gospodin D\Desktop\faks\IST\istV8\WCFTestClient\bin\Debug\WCFTestClient.exe
+C:\Users\Gospodin D\Desktop\faks\IST\istV8\WCFTestClient\bin\Debug\WCFTestClient.pdb
+C:\Users\Gospodin D\Desktop\faks\IST\istV8\WCFTestClient\obj\x86\Debug\WCFTestClient.csprojAssemblyReference.cache
+C:\Users\Gospodin D\Desktop\faks\IST\istV8\WCFTestClient\obj\x86\Debug\WCFTestClient.csproj.CoreCompileInputs.cache
+C:\Users\Gospodin D\Desktop\faks\IST\istV8\WCFTestClient\obj\x86\Debug\WCFTestClient.exe
+C:\Users\Gospodin D\Desktop\faks\IST\istV8\WCFTestClient\obj\x86\Debug\WCFTestClient.pdb
+C:\Users\Gospodin D\Desktop\faks\IST\ISTProjekat\WCFTestClient\bin\Debug\WCFTestClient.exe.config
+C:\Users\Gospodin D\Desktop\faks\IST\ISTProjekat\WCFTestClient\bin\Debug\WCFTestClient.exe
+C:\Users\Gospodin D\Desktop\faks\IST\ISTProjekat\WCFTestClient\bin\Debug\WCFTestClient.pdb
+C:\Users\Gospodin D\Desktop\faks\IST\ISTProjekat\WCFTestClient\obj\x86\Debug\WCFTestClient.csprojAssemblyReference.cache
+C:\Users\Gospodin D\Desktop\faks\IST\ISTProjekat\WCFTestClient\obj\x86\Debug\WCFTestClient.csproj.CoreCompileInputs.cache
+C:\Users\Gospodin D\Desktop\faks\IST\ISTProjekat\WCFTestClient\obj\x86\Debug\WCFTestClient.exe
+C:\Users\Gospodin D\Desktop\faks\IST\ISTProjekat\WCFTestClient\obj\x86\Debug\WCFTestClient.pdb

@@ -1,0 +1,20 @@
+c:\users\vpetrovic\documents\visual studio 2010\Projects\istV8\WCFServiceHost\bin\Debug\WCFServiceHost.exe.config
+c:\users\vpetrovic\documents\visual studio 2010\Projects\istV8\WCFServiceHost\bin\Debug\WCFServiceHost.exe
+c:\users\vpetrovic\documents\visual studio 2010\Projects\istV8\WCFServiceHost\bin\Debug\WCFServiceHost.pdb
+c:\users\vpetrovic\documents\visual studio 2010\Projects\istV8\WCFServiceHost\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\vpetrovic\documents\visual studio 2010\Projects\istV8\WCFServiceHost\obj\x86\Debug\WCFServiceHost.exe
+c:\users\vpetrovic\documents\visual studio 2010\Projects\istV8\WCFServiceHost\obj\x86\Debug\WCFServiceHost.pdb
+C:\Users\Gospodin D\Desktop\faks\IST\istV8\WCFServiceHost\bin\Debug\WCFServiceHost.exe.config
+C:\Users\Gospodin D\Desktop\faks\IST\istV8\WCFServiceHost\bin\Debug\WCFServiceHost.exe
+C:\Users\Gospodin D\Desktop\faks\IST\istV8\WCFServiceHost\bin\Debug\WCFServiceHost.pdb
+C:\Users\Gospodin D\Desktop\faks\IST\istV8\WCFServiceHost\obj\x86\Debug\WCFServiceHost.csprojAssemblyReference.cache
+C:\Users\Gospodin D\Desktop\faks\IST\istV8\WCFServiceHost\obj\x86\Debug\WCFServiceHost.csproj.CoreCompileInputs.cache
+C:\Users\Gospodin D\Desktop\faks\IST\istV8\WCFServiceHost\obj\x86\Debug\WCFServiceHost.exe
+C:\Users\Gospodin D\Desktop\faks\IST\istV8\WCFServiceHost\obj\x86\Debug\WCFServiceHost.pdb
+C:\Users\Gospodin D\Desktop\faks\IST\ISTProjekat\WCFServiceHost\bin\Debug\WCFServiceHost.exe.config
+C:\Users\Gospodin D\Desktop\faks\IST\ISTProjekat\WCFServiceHost\bin\Debug\WCFServiceHost.exe
+C:\Users\Gospodin D\Desktop\faks\IST\ISTProjekat\WCFServiceHost\bin\Debug\WCFServiceHost.pdb
+C:\Users\Gospodin D\Desktop\faks\IST\ISTProjekat\WCFServiceHost\obj\x86\Debug\WCFServiceHost.csprojAssemblyReference.cache
+C:\Users\Gospodin D\Desktop\faks\IST\ISTProjekat\WCFServiceHost\obj\x86\Debug\WCFServiceHost.csproj.CoreCompileInputs.cache
+C:\Users\Gospodin D\Desktop\faks\IST\ISTProjekat\WCFServiceHost\obj\x86\Debug\WCFServiceHost.exe
+C:\Users\Gospodin D\Desktop\faks\IST\ISTProjekat\WCFServiceHost\obj\x86\Debug\WCFServiceHost.pdb

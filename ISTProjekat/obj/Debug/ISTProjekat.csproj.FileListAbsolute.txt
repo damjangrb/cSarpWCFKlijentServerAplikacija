@@ -1,0 +1,5 @@
+c:\users\vpetrovic\documents\visual studio 2010\Projects\istV8\istV8\bin\istV8.dll
+c:\users\vpetrovic\documents\visual studio 2010\Projects\istV8\istV8\bin\istV8.pdb
+c:\users\vpetrovic\documents\visual studio 2010\Projects\istV8\istV8\obj\Debug\ResolveAssemblyReference.cache
+c:\users\vpetrovic\documents\visual studio 2010\Projects\istV8\istV8\obj\Debug\istV8.dll
+c:\users\vpetrovic\documents\visual studio 2010\Projects\istV8\istV8\obj\Debug\istV8.pdb
